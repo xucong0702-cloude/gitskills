@@ -1,8 +1,7 @@
 # gitskills
 change readme 1st
 Creating a new branch is quick and simple.
-fix buf 101
-
+git stash
 
 
 
